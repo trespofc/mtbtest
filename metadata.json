@@ -1,0 +1,6 @@
+{
+  "name": "Metal Blade Int Esports",
+  "description": "Professional Free Fire Esports team landing page featuring roster, achievements, and social media links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
